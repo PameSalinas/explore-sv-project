@@ -1,0 +1,333 @@
+[
+  {
+    "name": "El Pital",
+    "description": "Un lugar hermoso con vistas impresionantes y una rica biodiversidad. Descubre Cerro El Pital, el punto más alto del país y uno de los destinos más impresionantes para los amantes del ecoturismo. Ubicado en San Ignacio, Chalatenango, este paraíso natural se eleva a 2,730 metros sobre el nivel del mar, ofreciendo un clima fresco, paisajes cubiertos de neblina y una biodiversidad única que lo convierten en un refugio ideal para la aventura y el descanso. Durante el recorrido hacia la cima, los visitantes atraviesan senderos rodeados de pinos, robles, encinos y cipresales, con vistas panorámicas que permiten observar otros volcanes, valles y hasta el Golfo de Fonseca en días despejados.",
+    "price": 3,
+    "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247569.84698996233!2d-89.21890244556872!3d14.178438502981813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f63a22e2515544b%3A0x29d828ff57aed1dd!2sCerro%20El%20Pital!5e0!3m2!1ses!2ssv!4v1759871976405!5m2!1ses!2ssv",
+    "image": "https://venture-out.s3.us-east-2.amazonaws.com/guide-images/1744963413788-media%3Fkey%3DAIzaSyCkpNVocP1IwgtIz1s4aaTb1GgwMdUtzBw%26maxHeightPx%3D800%26maxWidthPx%3D800",
+    "images": [
+      "https://xpedition2024.pensertrust.com/wp-content/uploads/2024/02/Pital_004.jpeg",
+      "https://www.espaciohonduras.net/images/Honduras/Protecci%C3%B3n/Reserva_Biologica/El_Pital/El_Pital.jpg",
+      "https://elsalvadorviajar.com/wp-content/uploads/2021/11/Vistas-de-Cerro-El-Pital.jpg",
+      "https://elsalvadorviajar.com/wp-content/uploads/2021/11/CERRO-EL-PITAL-Cerros-de-El-Salvador.jpg"
+    ],
+    "touristInflux": "Alta",
+    "weather": "Frío",
+    "attractions": [
+      "Senderismo",
+      "Miradores",
+      "Acampar",
+      "Observación de flora y fauna"
+    ],
+    "experiences": [
+      {
+        "name": "Adrián Gonzáles",
+        "description": "Una experiencia inolvidable en Pital, rodeado de naturaleza y tranquilidad.",
+        "score": 5
+      },
+      {
+        "name": "María López",
+        "description": "Disfruté cada momento en Pital, un lugar perfecto para desconectar y recargar energías.",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "name": "Volcán de Santa Ana Ilamatepec",
+    "description": "El Volcán de Santa Ana se eleva a 2,381 metros sobre el nivel del mar, coronándose como el punto volcánico más alto de El Salvador. Su imponente cráter alberga una laguna de color turquesa, formada por aguas sulfurosas, que ofrece una vista surreal y única en la región. La caminata hacia la cima es una experiencia inolvidable: atraviesas bosques nubosos, vegetación de montaña y zonas erosionadas, mientras el clima fresco te acompaña en cada paso. Desde lo alto, puedes contemplar el majestuoso Lago de Coatepeque, otros volcanes del complejo Apaneca-Ilamatepec, y vastos paisajes cafetaleros.",
+    "price": 3,
+    "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15495.268029133616!2d-89.63974413832548!3d13.850020368750432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f62c16156d6e997%3A0x2fd88a9ab0dbc675!2sVolc%C3%A1n%20de%20Santa%20Ana!5e0!3m2!1ses!2ssv!4v1759871879365!5m2!1ses!2ssv",
+    "image": "https://elsalvador.travel/system/wp-content/uploads/2020/01/volcan-ilamatepeque-scaled.jpg",
+    "images": [
+      "https://elsalvador.travel/system/wp-content/uploads/2024/06/santa-ana04.jpg",
+      "https://elsalvador.travel/system/wp-content/uploads/2024/08/lagocoatepeque-01.jpg",
+      "https://ynkszwyttfswzaoigtvn.supabase.co/storage/v1/object/public/avatars/hikeguideheroimg.webp",
+      "https://online.salvadoreantours.com/wp-content/uploads/2016/05/volcan-ilamatepec-panoramica-e1463606831571.jpg"
+    ],
+    "touristInflux": "Alta",
+    "weather": "Templado",
+    "attractions": ["Senderismo", "Bosques nublados", "Zona de camping"],
+    "experiences": [
+      {
+        "name": "Anaí Torres",
+        "description": "Una de las mejores experiencias vividas es subir el volcán de Santa Ana, las vistas que posee son imprecionantes y la experiencia de subirlo es único.",
+        "score": 5
+      },
+      {
+        "name": "Henry Morales",
+        "description": "El volcán de Santa Ana es un lugar que todo salvadoreño debe visitar. Es más que impresionante, es una experiencia que no te puedes perder.",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "name": "Suchitoto",
+    "description": "Un pueblo colonial con calles empedradas y una rica historia cultural. Al recorrer sus calles empedradas, te encontrarás con casas de tejas rojas, balcones pintorescos y una atmósfera que te transporta al pasado. En el corazón del pueblo se alza la Iglesia de Santa Lucía, construida en el siglo XIX, rodeada por el Parque Central, donde los fines de semana se celebran ferias de artesanías y gastronomía local.Suchitoto también es un centro vibrante de arte y paz. El Centro Arte para la Paz, ubicado en un antiguo convento, ofrece talleres, exposiciones y espacios de reflexión. Además, la ciudad cuenta con museos, galerías, cafés bohemios y festivales culturales que la han convertido en la capital cultural de El Salvador.",
+    "price": 4,
+    "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30979.241677005866!2d-89.04455448769592!3d13.934461884489982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f636a189593cbb3%3A0xabf0b5a37df67cc4!2sSuchitoto!5e0!3m2!1ses!2ssv!4v1759871747796!5m2!1ses!2ssv",
+    "image": "https://t4.ftcdn.net/jpg/04/92/71/07/360_F_492710753_Jr3lHmx2kVuCStWqzohuhXyvOnWN94om.jpg",
+    "images": [
+      "https://everythingelsalvador.com/wp-content/uploads/2021/09/Things-to-do-in-Suchitoto-El-Salvador-1800x1200.jpg",
+      "https://www.paradisecatchers.com/wp-content/uploads/2024/04/Suchitoto-Santa-Lucia-Church.jpg",
+      "https://xpot.sv/wp-content/uploads/2025/03/Ed-82-turismo-Colonial-29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a1/El_Quijote_de_los_p%C3%A1jaros_y_las_flores.jpg"
+    ],
+    "touristInflux": "Intermedia",
+    "weather": "Cálido",
+    "attractions": [
+      "Iglesias coloniales",
+      "Artesanías",
+      "Lago Suchitlán",
+      "Festivales culturales"
+    ],
+    "experiences": [
+      {
+        "name": "Manuel Chávez",
+        "description": "Suchitoto es un lugar lleno de historia y cultura. Me encantó pasear por sus calles empedradas y disfrutar de su ambiente tranquilo.",
+        "score": 3
+      },
+      {
+        "name": "Yamileth Castaneda",
+        "description": "Disfruté mucho mi visita a Suchitoto. Es un lugar perfecto para relajarse y disfrutar de la cultura.",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "name": "Parque Nacional Cerro Verde",
+    "description": "El increíble parque nacional que alberga una gran biodiversidad y ofrece impresionantes vistas a sus visitantes. Ideal para actividades al aire libre como senderismo y observación de aves, mostrando la maravilla natural que conserva El Salvador. El parque es ideal para quienes buscan caminatas tranquilas, picnics en familia y conexión con la naturaleza. Sus senderos interpretativos permiten explorar la flora y fauna local, mientras que los miradores regalan panoramas inolvidables del Lago de Coatepeque y el Valle de Zapotitán.",
+    "price": 3,
+    "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1937.1087185487604!2d-89.62597967061792!3d13.82597808887254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f62c6ca3fcc3e7b%3A0x854e0fbc80396b88!2sParque%20Natural%20Cerro%20Verde!5e0!3m2!1ses!2ssv!4v1759872115062!5m2!1ses!2ssv",
+    "image": "https://pbs.twimg.com/media/FsJs3KmXwAEaTf3.jpg:large",
+    "images": [
+      "https://media.istockphoto.com/id/626502706/es/foto/izalco-volcano-cerro-verde-national-park-el-salvador.jpg?s=612x612&w=0&k=20&c=-0KoPyrZzToEb8sqtpaf4MpXesqAcLWK20E08x_fKJA=",
+      "https://mediaim.expedia.com/destination/1/48d5737b700661a8688e4d64b497fb04.jpg",
+      "https://elsalvador.travel/system/wp-content/uploads/2022/12/DestinationCerroVerde01.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/03/28/6d/ce/national-park-cerro-verde.jpg"
+    ],
+    "touristInflux": "Alta",
+    "weather": "Templado",
+    "attractions": [
+      "Ascenso al volcán",
+      "Observación de aves",
+      "Cascadas",
+      "Miradores",
+      "Camping"
+    ],
+    "experiences": [
+      {
+        "name": "Roger Salazar",
+        "description": "La experiencia de hacer camping en el Parque Nacional Cerro Verde fue inolvidable. Las vistas desde los miradores son simplemente espectaculares.",
+        "score": 5
+      },
+      {
+        "name": "Laura Gomez",
+        "description": "Visitar el Parque Nacional Cerro Verde fue una experiencia única. La biodiversidad y los paisajes son impresionantes.",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "name": "Volcán de Conchagua - Mirador al Golfo de Fonseca",
+    "description": "Un lugar impresionante para disfrutar de vistas panorámicas del Golfo de Fonseca. Ideal para senderismo y fotografía. Una experiencia única en contacto con la naturaleza.Conocido como el “Guardián del Golfo”, el volcán está rodeado de vegetación exuberante y brinda vistas panorámicas que alcanzan hasta Honduras y Nicaragua. Es ideal para quienes buscan aventura, fotografía de paisajes, y contacto directo con la naturaleza.",
+    "price": 8,
+    "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124279.54224124759!2d-87.79137165395419!3d13.241896492711628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7aa286a5f4aa4f%3A0x8c9b89da0abcf7d3!2sGolfo%20de%20Fonseca!5e0!3m2!1ses!2ssv!4v1759872225245!5m2!1ses!2ssv",
+    "image": "https://www.delfinestour.net/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-10-at-12.08.20-PM.jpeg",
+    "images": [
+      "https://bokun.s3.amazonaws.com/34117c6a-c2f4-4590-b25b-0c7869394eac.jpg?fl_progressive,h_507,w_900,q_5/",
+      "https://elsalvador.travel/system/wp-content/uploads/2020/01/Volcn-de-Conchagua-6.jpg",
+      "https://scontent.fsal1-1.fna.fbcdn.net/v/t1.6435-9/117349829_10158569386852618_7465136476518921487_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JqUOYRj2Es8Q7kNvwG6-OrN&_nc_oc=Adl0KXQEoi9a6YqfknD6ZLnEL2qfFgNPYcrSYd6WDI8cVFo8Gs2VUNeBL9ZcESXm_xg&_nc_zt=23&_nc_ht=scontent.fsal1-1.fna&_nc_gid=vpomi9NgYu-NirmPiUshoQ&oh=00_AfZyZE0LWOxc-GdAWztj25z6gZHO6Cvr9HKwb8pvJTSVYw&oe=68F12B45",
+      "https://www.delfinestour.net/wp-content/uploads/2025/03/IMG_9979.jpeg"
+    ],
+    "touristInflux": "Alta",
+    "weather": "Cálido",
+    "attractions": [
+      "Fotografía panorámica",
+      "Observación de aves y naturaleza",
+      "Recorrido en sus islas cercanas",
+      "Senderismo"
+    ],
+    "experiences": [
+      {
+        "name": "Alexandra Aguilar",
+        "description": "La vista impresionante desde el mirador del Volcán de Conchagua es simplemente espectacular. Un lugar perfecto para los amantes de la naturaleza.",
+        "score": 5
+      },
+      {
+        "name": "Javier Mendoza",
+        "description": "Un lugar ideal para disfrutar de la naturaleza y la tranquilidad. Las vistas son impresionantes.",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "name": "Playa las Flores",
+    "description": "Playa las Flores es uno de esos rincones que parecen salidos de un postal, donde la naturaleza se expresa con fuerza y elegancia. Su costa está abrazada por acantilados verdes que se asoman al mar como guardianes silenciosos, mientras las olas rompes con ritmo perfecto sobre la arena oscura. Playa las Flores es un lugar expectacular que cautiva a cada visitante.",
+    "price": 20,
+    "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14136765.133651447!2d-95.76175093696227!3d30.112548478038345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f62b3001dd92b8d%3A0xa4f48a2e0bd83aa7!2sPlaya%20las%20flores!5e0!3m2!1ses!2ssv!4v1759872338436!5m2!1ses!2ssv",
+    "image": "https://scontent.fsal2-2.fna.fbcdn.net/v/t1.6435-9/159143290_10159093911782618_5725644655433530482_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=37YyVQUEaBoQ7kNvwHgmRqM&_nc_oc=AdmPJzB2adxD2XmlnBGaVbztAqmEMpWQ6jtV-AL-uLOcOZYjTNQklAISkpuzIMG5Aik&_nc_zt=23&_nc_ht=scontent.fsal2-2.fna&_nc_gid=2k768C9RUMMBkQVd8ZMHXQ&oh=00_Afbtvmts1K0tve1KmpNxcL-YN-0-LMhKwWeC-Dd9Y1LePw&oe=68F2CEBE",
+    "images": [
+      "https://www.viajeroselsalvador.com/uploads/5/6/1/0/5610753/951001_orig.jpg",
+      "https://elsalvador.travel/system/wp-content/uploads/2020/09/Playa-Las-Flores-5.jpg",
+      "https://elsalvadorviajar.com/wp-content/uploads/2021/10/PLAYA-LAS-FLORES-SAN-MIGUEL-Playas-de-El-Salvador.jpg",
+      "https://www.viajeroselsalvador.com/uploads/5/6/1/0/5610753/1157460_orig.jpg"
+    ],
+    "touristInflux": "Alta",
+    "weather": "Cálido",
+    "attractions": [
+      "Surf",
+      "Gastronomía local",
+      "Buceo",
+      "Paseos en lanchas",
+      "Deportes en arena"
+    ],
+    "experiences": [
+      {
+        "name": "Luci Montalvo",
+        "description": "Playa las Flores, el lugar ideal para encontrar la conexión con el medio ambiente, desconectandonos del ritmo urbano y disfrutar de un espacio sereno. Un lugar aunténtico.",
+        "score": 5
+      },
+      {
+        "name": "Marck Quijano",
+        "description": "Playa Las Flores es, sin exagerar, un lugar verdaderamente único. Desde el primer momento en que se pisa su arena volcánica, se percibe una atmósfera distinta: tranquila, envolvente, casi mágica. El sonido constante de las olas, el paisaje rodeado de acantilados verdes y el cielo que parece pintado a mano al atardecer, hacen que cada instante allí se sienta especial.",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "name": "Apuzunga Metapán",
+    "description": "Apuzunga un lugar hermoso y lleno de energía, rodeado de vegetación y alimentado por aguas cristalinas que nacen de fuentes naturales. Aunque no es el parque más grande del país, su encanto radica en la variedad de actividades que ofrece: desde piscinas para todas las edades, toboganes coloridos, trampolines, hasta zonas de picnic y descanso.",
+    "price": 3,
+    "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3867.584340040221!2d-89.46281772412986!3d14.219099686301533!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f62fec12b4959cf%3A0xdf8954d513d94513!2sApuzunga%20Metap%C3%A1n!5e0!3m2!1ses!2ssv!4v1759872404764!5m2!1ses!2ssv",
+    "image": "https://scontent.fsal3-1.fna.fbcdn.net/v/t1.6435-9/128729207_4027495373946252_1073947813510088304_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=pCiAWUjEb7YQ7kNvwFsbCkY&_nc_oc=AdmMA5W1wH94chnZpDPqN4Q56GDc92HrA9Lj3rptUdQQtNNeETl7Ny7PSlG943qCdXuV9DJHNfiuWnp7xoubo03h&_nc_zt=23&_nc_ht=scontent.fsal3-1.fna&_nc_gid=ZCM8aJeUNqgoYbr0hzLg2Q&oh=00_AfY4Ac34wdWF3uzg0P3B1vMeqBnqagMz1oEFP8B8o-8KfA&oe=68F3F915",
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/72/ee/1a/photo0jpg.jpg?w=900&h=500&s=1",
+      "https://scontent.fsal2-1.fna.fbcdn.net/v/t1.6435-9/182913585_4486134454749006_8726020669211359301_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=FhsCqHdHX7gQ7kNvwEI3pjs&_nc_oc=AdnXYYMzAWau4uiFU5XD50ekJtTtrgkHvu-Jgvlpthd3AoFW9Y1CVL25f-V1Mofl6k9gO9rxFIQ2jvsQN_fxT31W&_nc_zt=23&_nc_ht=scontent.fsal2-1.fna&_nc_gid=K--dbWvlS9S5k3usgowp6g&oh=00_AfZNG8X81cpw57C4R8QEAFT6K1dnAC2QvsRUfkCir-bVcw&oe=68F3D251",
+      "https://scontent.fsal14-1.fna.fbcdn.net/v/t1.6435-9/176055186_4440949789267473_3528963587893488741_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=k59LUr5dZWQQ7kNvwEkK9d7&_nc_oc=Adm-erz39N9-OGFBtXB0gSBeWnaxCeYNiWf8XXhODb9Ozqb9uzaBrYoGgYwW-oZruZI&_nc_zt=23&_nc_ht=scontent.fsal14-1.fna&_nc_gid=0aq7UBid01QTcNB4QkUGPQ&oh=00_AfZ0E1mNkf51bYhUz0iWvy2Ryv-QoN5IOd3YNQvHCl5HyQ&oe=68FE637A",
+      "https://assets.isu.pub/document-structure/230529133422-a312256958d4e4da7776f5ee14580eaf/v1/0c520396f5ef1575f38736e23bcbc5f2.jpeg"
+    ],
+    "touristInflux": "Alta",
+    "weather": "Cálido",
+    "attractions": [
+      "Canopy (Tirolesa)",
+      "Zonas de picnic y áreas verdes",
+      "Restaurantes con vista al río",
+      "Camping y cabañas",
+      "Canchas deportivas"
+    ],
+    "experiences": [
+      {
+        "name": "Ashley Rivera",
+        "description": "Uno de los mejores luagres para visitar, con lindas vistas, excelentes recorridos en distintas zonas verdes, excelente servicio al cliente, cuidado de la fauna y flora. ",
+        "score": 4
+      },
+      {
+        "name": "Michael Palacios",
+        "description": "El mejor parque acuático que he visitado con piscinas que proceden de aguas que nacen de fuentes naturales, un lugar con un clima cálido pero su vegetación lo hace un lugar agradable y fresco.",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "name": "Parque Arqueológico Casa Blanca",
+    "description": "Este parque alberga ruinas de pirámides prehispánicas que pertenecieron a un antiguo señorío maya del período Preclásico tardío. Además de las estructuras arqueológicas, el lugar cuenta con un museo que exhibe piezas únicas, como fragmentos de estelas con escritura maya, y una ventana arqueológica que revela capas de ceniza volcánica y restos culturales milenarios.",
+    "price": 1,
+    "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3871.506289982755!2d-89.67381882413241!3d13.987967091780328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f62eb6df82da9fb%3A0x221b7a610c4529d0!2sParque%20Arqueol%C3%B3gico%20de%20Casa%20Blanca!5e0!3m2!1ses!2ssv!4v1759872469238!5m2!1ses!2ssv",
+    "image": "https://www.cultura.gob.sv/wp-content/uploads/2022/02/casa-blanca-03.jpg",
+    "images": [
+      "https://elsalvador.travel/system/wp-content/uploads/2020/01/Sitio-Arqueolo%CC%81gico-Casa-Blanca-2.jpg",
+      "https://gomundomaya.com/wp-content/uploads/2023/04/Tazumal-El-Salvador-696x370.jpeg",
+      "https://elsalvador.travel/system/wp-content/uploads/2020/10/13012021-Joya-de-Cere%CC%81n-Apertura-25-min.jpg",
+      "https://elsalvador.travel/system/wp-content/uploads/2020/10/joya2.jpg"
+    ],
+    "touristInflux": "Intermedia",
+    "weather": "Cálido",
+    "attractions": [
+      "Visita al museo arqueológico",
+      "Fotografía y senderismo ligero",
+      "Eventos culturales y educativos",
+      "Taller de añil",
+      "Exploración de la ventana arqueológica"
+    ],
+    "experiences": [
+      {
+        "name": "Alexander Quinteros",
+        "description": "Casa Blanca mantiene vivencias únicas que lo hacen verdaderamente especial. Entre sus pirámides cubiertas de verde, el silencio parece contar historias milenarios. No solamente es considerado un sitio arqueológico, es un espacio donde personas de la antiguedad tuvieron un por vivir. ",
+        "score": 5
+      },
+      {
+        "name": "Jecel Pineda",
+        "description": "El sitio Arqueológico Casa Blanca es un lugar de historia viva. Sus pigmentos son indiscutibles, un lugar único donde se observa con calma su forma de vivir en la época pasada.",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "name": "La Puerta del Diablo",
+    "description": "Ubicada en el municipio de Panchimalco, al sur de San Salvador, La Puerta del Diablo constituye uno de los destinos turísticos más emblemáticos de El Salvador. Este sitio se distingue por su imponente formación rocosa, compuesta por dos peñascos separados por una grieta profunda, desde donde se despliegan vistas panorámicas que abarcan el valle de San Salvador, el océano Pacífico y diversos volcanes del país.",
+    "price": 2,
+    "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15509.588164274297!2d-89.18846043389885!3d13.633595416367273!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f6333dd4dd8b4a9%3A0x64ab35fb0d7621fa!2sPuerta%20del%20Diablo!5e0!3m2!1ses-419!2ssv!4v1759270459481!5m2!1ses-419!2ssv",
+    "image": "https://www.civitatis.com/f/el-salvador/san-salvador/galeria/miradores-cristal.jpg",
+    "images": [
+      "https://rotaryca.org/wp-content/uploads/2019/02/La-Puerta-del-Diablo.jpg",
+      "https://cdn-pro.elsalvador.com/wp-content/uploads/2023/12/reapertura-puerta-del-diablo-1.jpg",
+      "https://pbs.twimg.com/media/GArG0x0XMAAKnfw.jpg",
+      "https://alcaldiass.wordpress.com/wp-content/uploads/2009/05/puerta-del-diablo.jpg"
+    ],
+    "touristInflux": "Alta",
+    "weather": "Templado",
+    "attractions": [
+      "Senderismo",
+      "Prácticar deportes",
+      "Miradores de cristal",
+      "Observación de amaneceres",
+      "Toma de fotografía"
+    ],
+    "experiences": [
+      {
+        "name": "Joshua Gonzalez",
+        "description": "Visitar La Puerta del Diablo fue una experiencia que superó todas mis expectativas. Desde que llegamos a Panchimalco, el aire fresco y la vegetación nos daban la bienvenida. El ascenso al mirador fue relativamente corto, pero cada paso revelaba paisajes más impresionantes. Al llegar a la cima, me encontré frente a los dos peñascos que forman la famosa grieta: una vista imponente que parece sacada de una leyenda.",
+        "score": 5
+      },
+      {
+        "name": "Samuel Miranda",
+        "description": "La caminata hacia el mirador fue breve pero intensa. A medida que ascendía, el aire se volvía más fresco y el silencio más profundo, interrumpido solo por el canto de aves y el crujir de las hojas bajo mis pies. Al llegar a la cima, me encontré frente a los dos peñascos que forman la famosa grieta. La vista era simplemente sobrecogedora: el océano a lo lejos, los volcanes perfilando el horizonte, y un mar de verdes que parecía no tener fin",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "name": "Laguna de Alegría",
+    "description": "El entorno natural que rodea la laguna está compuesto por bosques de pino y vegetación de altura, lo que genera un microclima fresco y propicio para el ecoturismo, la investigación ambiental y la contemplación paisajística. El sitio cuenta con senderos accesibles, miradores naturales y zonas de descanso que permiten al visitante interactuar con el ecosistema sin alterar su equilibrio. Desde el punto de vista cultural, la Laguna de Alegría está profundamente vinculada al imaginario popular salvadoreño.",
+    "price": 2,
+    "googleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d942.3121884417303!2d-88.49380141582839!3d13.49280674107245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7b4a5fd19be3d7%3A0xd29c7786cf135ed8!2sLaguna%20de%20Alegr%C3%ADa!5e0!3m2!1ses-419!2ssv!4v1759270875983!5m2!1ses-419!2ssv",
+    "image": "https://elsalvador.travel/system/wp-content/uploads/2021/04/Laguna-de-Alegri%CC%81a-3.jpg",
+    "images": [
+      "https://travelmademedoit.com/wp-content/uploads/2022/03/DSC03639.jpg",
+      "https://i.pinimg.com/736x/1b/1b/b8/1b1bb85bf14e28820ab768ee5ddcf643.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6c/43/00.jpg",
+      "https://i.pinimg.com/1200x/cf/d6/f6/cfd6f61a7d72e312916a0afff064573c.jpg"
+    ],
+    "touristInflux": "Intermedia",
+    "weather": "Cálido",
+    "attractions": [
+      "Observación paisajística",
+      "Exploración geológica",
+      "Picnic",
+      "Exploración botánica",
+      "Caminatas ecologicas"
+    ],
+    "experiences": [
+      {
+        "name": "Karla Argueta",
+        "description": "Durante una visita técnica realizada por un grupo de geólogos y ecoturistas, se destacó el valor geológico, paisajístico y cultural de la Laguna de Alegría, ubicada en el cráter del volcán Tecapa. El recorrido inició a primera hora de la mañana, cuando la neblina aún cubría parcialmente el espejo de agua, generando una atmósfera mística que cautivó a los participantes.El equipo observó que la laguna presenta una coloración verde esmeralda, atribuida a su alta concentración de azufre y minerales volcánicos. Se tomaron muestras del agua y del sedimento para análisis químico, confirmando su acidez y propiedades terapéuticas.",
+        "score": 3
+      },
+      {
+        "name": "Javier Ramírez",
+        "description": "La jornada comenzó con un ascenso por caminos empedrados bordeados de vegetación nativa. Al llegar al mirador principal, la Laguna de Alegría se reveló como un espejo verde esmeralda incrustado en el cráter del volcán Tecapa. La neblina matutina flotaba sobre el agua, creando una atmósfera de recogimiento y misterio.El grupo de visitantes, compuesto por educadores, biólogos y promotores turísticos, realizó una caminata interpretativa alrededor del cráter. Se identificaron especies de flora adaptadas al suelo volcánico, y se discutió la importancia de conservar este ecosistema frágil. El olor a azufre era persistente, pero no invasivo; más bien, evocaba la fuerza geotérmica que da vida al lugar.",
+        "score": 4
+      }
+    ]
+  }
+]
